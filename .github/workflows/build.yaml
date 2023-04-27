@@ -9,6 +9,7 @@ jobs:
         - run: sudo apt update -y
         - run: sudo apt install -y cmake
         - run: cd hello_world_application && cmake . -B _build && cd _build && make
+        - run: ./hw
         - run: cd solver_application && cmake . -B _build && cd _build && make
         - run: echo "This job's status is ${{ job.status }}."
 
