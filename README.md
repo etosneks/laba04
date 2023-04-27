@@ -1,6 +1,8 @@
 
 [![Test Build](https://github.com/etosneks/laba04/actions/workflows/build.yaml/badge.svg)](https://github.com/etosneks/laba04/actions/workflows/build.yaml)
 
+
+
 Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
